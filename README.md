@@ -1,2 +1,2 @@
 # ギットギットの Git
-new commit 2
+aa
